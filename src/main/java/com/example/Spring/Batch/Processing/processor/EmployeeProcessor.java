@@ -1,7 +1,7 @@
 package com.example.Spring.Batch.Processing.processor;
 
 import com.example.Spring.Batch.Processing.entity.Employee;
-import org.springframework.batch.infrastructure.item.ItemProcessor;
+import org.springframework.batch.item.ItemProcessor;
 import org.springframework.stereotype.Component;
 
 @Component
